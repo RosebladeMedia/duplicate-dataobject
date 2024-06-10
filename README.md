@@ -1,10 +1,12 @@
-# SilverStripe 4 Duplicate DataObject
+# SilverStripe 5 Duplicate DataObject
 
-Adds a duplicate button to GridField in the CMS that enables duplicating of dataobjects
+Adds a duplicate button to GridField in the CMS that enables duplicating of dataobjects.
+
+Forked from [jinjie/duplicate-dataobject](https://github.com/jinjie/duplicate-dataobject) and updated to support SS5.
 
 ## Installation 
 
-``composer require jinjie/ss4-duplicate-dataobject``
+``composer require roseblade/ss-duplicate-dataobject``
 
 ## Usage Example
 
