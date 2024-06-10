@@ -1,5 +1,5 @@
 {
-    "name": "roseblade/ss4-duplicate-dataobject",
+    "name": "roseblade/ss-duplicate-dataobject",
     "description": "Adds a duplicate button to GridField in the CMS that enables duplicating of dataobjects. Code originally by Kong Jin Jie and upgraded for SS 5.2.",
     "type": "silverstripe-vendormodule",
     "license": "MIT",
